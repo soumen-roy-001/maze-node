@@ -1,9 +1,7 @@
 ## Available Scripts
 
-To execute this app run the below commands one by one in the root directory:
+To execute this app run the below command in the root directory:
 
-### `npm install`
-
-### `node index.js`
+### `node app.js`
 
 You will see the output in the console.
