@@ -1,0 +1,11 @@
+{
+  "name": "maze",
+  "version": "1.0.0",
+  "description": "A maze by 2D matrix",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soumen Roy",
+  "license": "ISC"
+}
